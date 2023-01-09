@@ -2,4 +2,4 @@
 
 Useful code snippets.
 
-The .ws file extension indicates that the code was written in Webhook.Site's [WebhookScript](https://docs.webhook.site/webhookscript/index.html).
+At the moment I'm writing scripts in WebhookSite's [WebhookScript](https://docs.webhook.site/webhookscript/index.html) and saving files with a .js extension to apply reasonably accurate syntax highlighting.
